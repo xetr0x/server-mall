@@ -11,3 +11,4 @@ app.use('/', router);                                   //säger att appen ska a
 
 app.listen(port)                                        //säger till appen att den ska köra nu programen på port
 console.log('its alive')                                //berättar till användaren via consolen att appen går på full varv. 
+
